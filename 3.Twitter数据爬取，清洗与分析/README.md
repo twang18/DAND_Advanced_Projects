@@ -45,7 +45,7 @@ WeRateDogs 下载了他们的推特档案，专门为本项目使用。这个档
 - json
 - os
 
-###文件描述
+### 文件描述
 
 - wrange_act.ipynb: 完整的数据爬取，清洗及分析代码文件
 - wrangle_report.pdf: 关于数据爬取，清洗与分析的报告（不包含代码）
