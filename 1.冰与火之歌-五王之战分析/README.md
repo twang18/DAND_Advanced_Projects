@@ -21,7 +21,7 @@
 - matplotlib
 - statsmodels
 
-###文件描述
+### 文件描述
 
 - Game_of_thrones_battle_analysis.ipynb: 完整的数据分析代码和报告文件
 - battles.csv: 此数据集包含了五王之战期间的战争，它是所有战斗的大集合。该数据是Kaggle中[Game of Thrones](https://www.kaggle.com/mylesoneill/game-of-thrones)的一部分。
