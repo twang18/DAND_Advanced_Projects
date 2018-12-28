@@ -36,7 +36,7 @@
 - RStudio
 - R的相关库：ggplot2, dplyr, reshape2, GGally, gridExtra, MASS, memisc, knitr
 
-###文件描述
+### 文件描述
 
 - RedWine_EDA.Rmd: 完整的探索性分析代码文件
 - windQualityReds.csv: 红酒数据集
