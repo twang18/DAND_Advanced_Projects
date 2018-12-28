@@ -1,5 +1,5 @@
 # 数据分析（进阶）纳米学位
-## ![](C:\Users\apple\Desktop\DAND项目\DAND-Advanced_Certificate.png)
+## ![](https://github.com/twang18/DAND_Advanced_Projects/blob/master/DAND-Adv_Certificate.png)
 
 ### 学位概述
 
