@@ -18,7 +18,7 @@
 - scipy.stats
 - matplotlib
 
-###文件描述
+### 文件描述
 
 - Stroop_effect_test.ipynb: 完整的数据分析代码，统计检测及报告文件
 - stroopdata.csv: 关于该心理测试的测试结果数据集
