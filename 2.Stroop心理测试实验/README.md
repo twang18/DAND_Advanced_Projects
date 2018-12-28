@@ -4,7 +4,7 @@
 
 在此项目中，我们将研究一个经典的实验心理学现象，叫做[斯特鲁普效应](https://en.wikipedia.org/wiki/Stroop_effect)。
 
-![](C:\Users\apple\Desktop\DAND项目\DAND进阶项目\0. To GitHub\2. Stroop心理测试实验\stroop_img.jpg)
+![](/2.Stroop心理测试实验/stroop_img.jpg)
 
 ### 项目步骤及流程
 
