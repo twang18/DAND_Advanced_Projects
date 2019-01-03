@@ -26,4 +26,27 @@
 5. 用Tableau讲述摩拜单车的故事
 
    **所需技能**：python, jupyter notebook, Tableau, 数据可视化，商业分析
+   
+## Project Portfolio
+**Game of Thrones Battle Analysis**
+- Perform data wrangling and EDA with visualization
+- Perform logistic regression and statistic discussion on the model
+
+**Stroop Test Analysis**
+- Perform data visualization; make statistic hypothesis and perform T-test with python
+
+**Data Crawling, wrangling and analysis on Twitter**
+- Collect data sets from different sources with twitter crawling
+- Perform data cleaning and wrangling on three data sets on 8 quality and 2 cleanness issues
+- Conduct data analysis and visualization on the clean data
+
+**Exploratory Data Analysis (EDA) on Red Wine Data with R**
+- Perform univariate, bivariate and multivariate plots and analysis with R
+- Perform final data visualizations and discussions based on EDA findings
+
+**Tell a Story on Mobike Data with Tableau**
+- Perform data wrangling and analysis on Mobike data; download Shanghai Metro Station coordinates data; load the two datasets into Tableau
+- Perform data visualization with Tableau Story; collect feedbacks on the story and revise visualizations
+- Write a report to tell the full story with Tableau plots
+
 
